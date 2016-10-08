@@ -20,3 +20,16 @@ Blender Shortcut
 18. Tab -> For going into the edit mode.
 19. Shift + D -> Copy the selected object or instance.
 20. F12 -> Rendering an image.
+21. Vertice select.
+22. Edge select.
+23. Face select.
+24. Alt + D -> Make a copy for an object (If you edit one then another one will be eidted autometicly)
+25. Ctrl + R -> For loop cut.
+26. G + Z -> Grab and move in Z axis.
+27. G + Y -> Grab and move in Y axis.
+28. G + X -> Grab and move in X axis.
+29. M -> Move one object from one layer to another layer.
+30. Z -> Seeing wire view.
+31. B -> Select something in wire mode.
+32. P -> Using for separate something it can be a face.
+33. F -> For create a new face.
