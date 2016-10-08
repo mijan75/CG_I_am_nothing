@@ -1,0 +1,22 @@
+Blender Shortcut
+
+1. Scroll up and down -> Zoom in/ Zoom out.
+2. Press middle mouse button -> See the 3d view from the diffrenet angle.
+3. Shift + Middle mouse button -> See the only left and right 3d view.
+4. S -> Sacling the object from all three axis.
+5. S + X -> Scaling the object from the X axis only.
+6. S + Y -> Scaling the object from the Y axis only.
+7. S + Z -> Scaling the object from the Z axis only.
+8. G -> Grab the object move wherever you want.
+9. R -> Rotating the object.
+10. Ctrl + J -> Join the object.
+11. Numpad 0 -> See the camera view. 
+12. Numpad 0 + G -> Grab the camera and watch it from different angle.
+13. Numpad 1 -> See the left view.
+14. Numpad 3 -> See the right view.
+15. Numpad 7 -> See the upper view.
+16. Numpad 9 -> See the down view.
+17. Numpad 5 -> See the orthographic view.
+18. Tab -> For going into the edit mode.
+19. Shift + D -> Copy the selected object or instance.
+20. F12 -> Rendering an image.
